@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello there. I'm Gimleux.</h2>
+<h2 align="center">☀️ Good Morning! I'm Gimleux.</h2>
 
 > “Good Morning!" said Bilbo, and he meant it. The sun was shining, and the grass was very green. But Gandalf looked at him from under long bushy eyebrows that stuck out further than the brim of his shady hat.  
 — J.R.R. Tolkien | The Hobbit
