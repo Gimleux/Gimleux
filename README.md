@@ -6,7 +6,7 @@
 
 - 😄 My Pronouns: He/Him
 - 🌱 I’m currently learning **JavaScript**, **TypeScript**
-- ⌛ My time on GitHub: [![Number of years I have been a member](https://badges.pufler.dev/years/Gimleux?style=flat&logo=github)](https://badges.pufler.dev)
+- ⌛ My time on GitHub: [![Number of years I have been a member](https://badges.pufler.dev/years/Gimleux?style=flat)](https://badges.pufler.dev)
 
 ### Public Commits
 ![My monthly number of commits](https://badges.pufler.dev/commits/monthly/Gimleux)  
